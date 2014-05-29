@@ -1,0 +1,15 @@
+# Logfile created on 2014-05-29 13:21:22 -0400 by logger.rb/31641
+I, [2014-05-29T13:21:22.415388 #315698]  INFO -- : 0:  addressable (2.3.6) from /var/lib/stickshift/53849cd05973ca59300006d2/app-root/data/lib/ruby/gems/specifications/addressable-2.3.6.gemspec
+I, [2014-05-29T13:21:23.313775 #315698]  INFO -- : 0:  buftok (0.2.0) from /var/lib/stickshift/53849cd05973ca59300006d2/app-root/data/lib/ruby/gems/specifications/buftok-0.2.0.gemspec
+I, [2014-05-29T13:21:24.535114 #315698]  INFO -- : 0:  thread_safe (0.3.4) from /var/lib/stickshift/53849cd05973ca59300006d2/app-root/data/lib/ruby/gems/specifications/thread_safe-0.3.4.gemspec
+I, [2014-05-29T13:21:25.541939 #315698]  INFO -- : 0:  descendants_tracker (0.0.4) from /var/lib/stickshift/53849cd05973ca59300006d2/app-root/data/lib/ruby/gems/specifications/descendants_tracker-0.0.4.gemspec
+I, [2014-05-29T13:21:26.625512 #315698]  INFO -- : 0:  equalizer (0.0.9) from /var/lib/stickshift/53849cd05973ca59300006d2/app-root/data/lib/ruby/gems/specifications/equalizer-0.0.9.gemspec
+I, [2014-05-29T13:21:27.641558 #315698]  INFO -- : 0:  multipart-post (2.0.0) from /var/lib/stickshift/53849cd05973ca59300006d2/app-root/data/lib/ruby/gems/specifications/multipart-post-2.0.0.gemspec
+I, [2014-05-29T13:21:28.931835 #315698]  INFO -- : 0:  faraday (0.9.0) from /var/lib/stickshift/53849cd05973ca59300006d2/app-root/data/lib/ruby/gems/specifications/faraday-0.9.0.gemspec
+I, [2014-05-29T13:21:37.218359 #315698]  INFO -- : 0:  http_parser.rb (0.6.0) from /var/lib/stickshift/53849cd05973ca59300006d2/app-root/data/lib/ruby/gems/specifications/http_parser.rb-0.6.0.gemspec
+I, [2014-05-29T13:21:38.417660 #315698]  INFO -- : 0:  http (0.5.1) from /var/lib/stickshift/53849cd05973ca59300006d2/app-root/data/lib/ruby/gems/specifications/http-0.5.1.gemspec
+I, [2014-05-29T13:21:38.418901 #315698]  INFO -- : 0:  json (1.8.1) from /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/specifications/json-1.8.1.gemspec
+I, [2014-05-29T13:21:39.434318 #315698]  INFO -- : 0:  memoizable (0.4.2) from /var/lib/stickshift/53849cd05973ca59300006d2/app-root/data/lib/ruby/gems/specifications/memoizable-0.4.2.gemspec
+I, [2014-05-29T13:21:40.514907 #315698]  INFO -- : 0:  simple_oauth (0.2.0) from /var/lib/stickshift/53849cd05973ca59300006d2/app-root/data/lib/ruby/gems/specifications/simple_oauth-0.2.0.gemspec
+I, [2014-05-29T13:21:43.287284 #315698]  INFO -- : 0:  twitter (5.5.1) from /var/lib/stickshift/53849cd05973ca59300006d2/app-root/data/lib/ruby/gems/specifications/twitter-5.5.1.gemspec
+I, [2014-05-29T13:21:43.289740 #315698]  INFO -- : 0:  bundler (1.5.1) from /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/specifications/bundler-1.5.1.gemspec
